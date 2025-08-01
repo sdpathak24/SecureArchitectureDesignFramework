@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	f, err := os.Open("sample.go")
+	f, err := os.Open("testdata/sample.go")
 	if err != nil {
 		fmt.Println("Error:", err)
 		return
