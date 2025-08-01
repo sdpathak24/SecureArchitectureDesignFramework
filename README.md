@@ -24,6 +24,6 @@ Each subfolder contains detailed usage instructions.
 
 - **Secure coding practices**: Linters enforce security rules.
 - **Vulnerability assessment tools**: Automated analyzers with real reporting.
-- **25% better vuln detection**: Sample reports exhibit real-world findings.
+- **25% better vulnerability detection**: Sample reports exhibit real-world findings.
 - **Static analysis**: All tools use and illustrate static code inspection.
 
